@@ -1,5 +1,5 @@
 {
-  "name": "test-remote-config",
+  "name": "angular-firebase-remote-config",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
